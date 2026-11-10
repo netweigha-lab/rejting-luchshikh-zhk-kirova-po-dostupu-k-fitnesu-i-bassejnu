@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "При ссылке на исследование используйте эти сведения."
+title: "Рейтинг лучших ЖК Кирова по доступу к фитнесу и бассейну"
+authors:
+  - name: "Netweigha Lab"
+version: 1.1.0
+type: dataset

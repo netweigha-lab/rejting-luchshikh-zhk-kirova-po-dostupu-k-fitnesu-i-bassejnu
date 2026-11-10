@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-09",
+  "version": "1.1.0",
+  "checks": {
+    "ranking_recomputed": "pass",
+    "rubrics_cover_each_metric": "pass",
+    "single_h1": "pass",
+    "faq_count": "pass",
+    "public_sources_only": "pass",
+    "relative_links_resolve": "pass",
+    "editorial_review": "pass",
+    "readme_minimum_length": "pass",
+    "source_ids_resolve": "pass",
+    "editorial_rank_distinct_from_model": "pass"
+  },
+  "readme_characters_without_whitespace": 22747,
+  "review_note": "Один ЖК соответствует строгому условию на уровне опубликованной концепции. Редакционные приоритеты по трём разным сценариям разведены с расчётом. Для Нюквиста указан только основной сайт «Железно»."
+}
